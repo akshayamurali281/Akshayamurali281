@@ -2,7 +2,7 @@
 ### Data Analyst | SQL • Python • Power BI • Excel | Turning Data into Insights  
 
 📊 Passionate about transforming raw data into business decisions.  
-🎯 Experienced in Data Cleaning, EDA, Reporting & Machine Learning basics.  
+ 
 
 I’m an aspiring Data Analyst with hands-on experience in transforming raw data into meaningful insights.  
 Skilled in SQL, Python, Power BI & Excel — I enjoy solving business problems using data-driven strategies.  
