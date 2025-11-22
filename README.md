@@ -40,6 +40,14 @@ Currently working on Machine Learning basics & Automation to enhance analytical 
 📍 Performed feature engineering & model evaluation  
 🔗 *https://lnkd.in/gRPyY2gi*
 
+### Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)
+ 
+📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks.
+📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements.
+📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers.
+	🔗 Link: https://lnkd.in/gj-tu2XG
+
+
 ---
 💼 Professional Experience
 
