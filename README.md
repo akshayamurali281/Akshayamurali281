@@ -4,7 +4,7 @@
 📊 Passionate about transforming raw data into business decisions.  
  
 
-I’m an aspiring Data Analyst with with 2.9 years of professional experience in catalog operations and talent acquisition, specializing in Excel-based reporting, data validation, reconciliation, and process optimization. Since 2024, upskilled in SQL, Power BI, Python, and Tableau, applying these tools in independent analytics projects to build dashboards, automate reporting, and deliver predictive insights
+I’m an  Analyst with with 2.9 years of professional experience in catalog operations and talent acquisition, specializing in Excel-based reporting, data validation, reconciliation, and process optimization. Since 2024, upskilled in SQL, Power BI, Python, and Tableau, applying these tools in independent analytics projects to build dashboards, automate reporting, and deliver predictive insights
 
 ---
 
@@ -45,7 +45,12 @@ I’m an aspiring Data Analyst with with 2.9 years of professional experience in
 📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers.
 	🔗 Link: https://lnkd.in/gj-tu2XG
 
+### BCG Forage – Data & Decision Makers  Job Simulation (2026) Excel | PowerPoint | Pivot Tables
+ 📍	Prepared campaign performance dashboards and delivered consulting style recommendations.
+ 📍 Applied analytical thinking to translate raw data into actionable insights.
+   🔗	Link :  https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf
 
+Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 ---
 💼 Professional Experience
 
@@ -64,13 +69,16 @@ I’m an aspiring Data Analyst with with 2.9 years of professional experience in
 🎖 SQL for Data Analysts – Udemy  - https://www.udemy.com/certificate/UC-12d5ef87-74d0-4586-8642-280623cd31ec/
 🎖 Python Programming – CodeChef - https://www.codechef.com/certificates/preview/85773af
 🎖 VBA & Macros for Beginners – LinkedIn Learning - https://www.linkedin.com/learning/certificates/51fdc8c8998287ccbb5807886616170d4464aa7ea5971e5c3a22bb70fb362217?trk=share_certificate
-
+🎖 Salesforce Essential learning - Linkedin Learning - https://www.linkedin.com/learning/certificates/7cc6f9b0177902b764c2db45a2187488f5973f9788e975d4222e8b1d616ef7f1
+🎖  From Excel to Tableau - Linkedin Learning - https://www.linkedin.com/learning/certificates/6c62c6342634b1b43308fb62b42f34b4ba5b4bf42bf9d9b2eb83ac6dbbc2e0a2
+🎖  Complete Guide to Power BI for analysts by Microsoft Press - Linkedin Learning - https://www.linkedin.com/learning/certificates/2fc8245d71620086bd15cffb97fc912df8778fb33bc7fd7c0cd565f13448e98e
+🎖   Corporate Financial Statement analysis : Linkedin Learning - https://www.linkedin.com/learning/certificates/dad247ed4022d2ee714ae1140772b6321a5ed487c8eee3be292a3c1f07049532
+🎖   Machine Learning With Python :Foundations – LinkedIn Learning - https://www.linkedin.com/learning/certificates/90874309be84d77ce59aca83dc7d78c9bab8f1ce388d3fc1d5856a3e7ff36aed
 ---
 
 ## 📫 Connect with Me
 🔗 LinkedIn: https://www.linkedin.com/in/akshaya-m-3872b7169/
 📧 Email: akshayamurali03@gmail.com
-
 ---
 
 ⭐ *Thanks for visiting! More projects coming soon!*  
