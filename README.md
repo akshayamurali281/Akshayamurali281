@@ -4,7 +4,7 @@
 📊 Passionate about transforming raw data into business decisions.  
  
 
-I’m an  Analyst with with 2.9 years of professional experience in catalog operations and talent acquisition, specializing in Excel-based reporting, data validation, reconciliation, and process optimization. Since 2024, upskilled in SQL, Power BI, Python, and Tableau, applying these tools in independent analytics projects to build dashboards, automate reporting, and deliver predictive insights
+I’m an Aspiring Analyst with with 2.9 years of professional experience in catalog operations and talent acquisition, specializing in Excel-based reporting, data validation, reconciliation, and process optimization. Since 2024, upskilled in SQL, Power BI, Python, and Tableau, applying these tools in independent analytics projects to build dashboards, automate reporting, and deliver predictive insights
 
 ---
 
