@@ -4,7 +4,18 @@
 📊 Passionate about transforming raw data into business decisions.  
  
 
-I’m an Aspiring Analyst with with 2.9 years of professional experience in catalog operations and talent acquisition, specializing in Excel-based reporting, data validation, reconciliation, and process optimization. Since 2024, upskilled in SQL, Power BI, Python, and Tableau, applying these tools in independent analytics projects to build dashboards, automate reporting, and deliver predictive insights
+From operations to analytics — driven by a passion for turning messy data into decisions that matter.
+
+I spent nearly 2 years at Amazon Development Center as a Catalog Associate, where I lived inside data every day — reconciling records, tracking defect metrics, building SOPs, and making sure the numbers told the truth. That experience taught me something important: clean data and clear reporting aren't just technical tasks, they're what good decisions are built on.
+
+Since early 2024, I've been on a deliberate path to deepen that instinct with formal analytics skills. I've completed hands-on projects in Power BI, SQL, Python (Pandas, NumPy, Matplotlib), Tableau, and Excel — building dashboards and models across real datasets including retail sales, Netflix viewer behaviour, e-commerce delivery performance, and customer analytics.                                            What I bring to a data analyst role:
+— Power BI dashboards with advanced DAX measures and drill-down visuals
+— SQL for data querying, cleaning, and reporting
+— Python for EDA, automation, and insight communication
+— A strong ops foundation that helps me understand the business context behind the data
+— Salesforce (Essential Training + Admin(Linkedin learning)) with 13,500+ Trailhead points
+
+I hold an MBA in Finance & HR and am actively seeking Data Analyst or Operations Analyst roles where I can contribute to data-driven teams and keep growing.
 
 ---
 
@@ -20,15 +31,15 @@ I’m an Aspiring Analyst with with 2.9 years of professional experience in cata
 ## 📂 Featured Projects
 
 ### 📌 Walmart Sales Analysis (Python | Power BI | SQL | Excel)
-📍 Identified high-profit categories & underperforming regions  
-📍 Recommended marketing strategies to improve profit margins  
+📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth
+ 📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards  
 🔗 *https://lnkd.in/g8t_JZrp*
 
 ---
 
 ### 🎬 Netflix Viewer Engagement Dashboard (SQL | Python | Power BI)
-📍 Analyzed churn, watch hours & retention trends  
-📍 Insights supporting customer retention initiatives  
+📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries
+📍  Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market
 🔗 *https://lnkd.in/gTX6iNDt*
 
 ---
