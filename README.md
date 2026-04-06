@@ -31,15 +31,15 @@ I hold an MBA in Finance & HR and am actively seeking Data Analyst or Operations
 ## 📂 Featured Projects
 
 ### 📌 Walmart Sales Analysis (Python | Power BI | SQL | Excel)
-📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth
- 📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards  
+📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth.
+📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards.
 🔗 *https://lnkd.in/g8t_JZrp*
 
 ---
 
 ### 🎬 Netflix Viewer Engagement Dashboard (SQL | Python | Power BI)
-📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries
-📍  Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market
+📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries.
+📍 Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market.
 🔗 *https://lnkd.in/gTX6iNDt*
 
 ---
@@ -66,14 +66,18 @@ Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 💼 Professional Experience
 
 **Catalog Associate — Amazon Development Center**(Feb-2022 Dec-2023)*  
-- Conducted root cause analysis to resolve data and catalog issues  
-- Improved product listing accuracy across major marketplaces  
-- Supported large-scale data uploads & data validations
+• Resolved 60+ daily tickets across manual and automated error categories — including MRP price corrections, catalog defect fixes, and expiry stock invalidations — consistently meeting daily resolution targets and overtime SLAs.
+
+• Led first-level damage assessment for defective products by coordinating with the Logistics team to obtain and verify stock images — independently authorised temporary stock freezes of up to ₹2,50,000 based on damage confirmation and location-specific findings.
+
+• Managed end-to-end stakeholder communication with brands, sellers, and logistics middlemen via structured email workflows — evaluating quality reports within 3-business-day SLAs to determine stock release or freeze decisions based on report validity and damage location.
+• Triaged automated customer feedback streams, distinguishing defect signals from positive feedback — initiating quality investigations and ensuring accurate catalog and stock status updates across the platform.
+
+• Supported Amazon US catalog operations for one month, performing bulk data uploads via Excel and maintaining daily trackers to monitor ticket resolution rates and team productivity metrics
 
 **Talent Acquisition  — Bangalore Softsell** *(Mar-2019 Mar-2020)*  
-- Designed Excel dashboards tracking hiring metrics  
-- Improved recruitment reporting and decision efficiency  
-- Collaborated with HR leaders on pipeline optimization
+• Conducted 50+ daily candidate outreach calls and emails across Naukri and LinkedIn, managing end-to-end recruitment for ASP.NET developer roles under constrained hiring conditions
+• Managed HR documentation including offer letters, payroll records, performance management files, and vendor invoices — ensuring accurate processing across all employee lifecycle stages
 
 ## 🎓 Certifications
 🎖 Google Data Analytics – Coursera - https://coursera.org/share/c2293c7b22f47c1fc800f3561d3c7c7c
