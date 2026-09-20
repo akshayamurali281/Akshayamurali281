@@ -23,7 +23,7 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 ## Walmart Sales Analysis (Python | Power BI | SQL | Excel) 2011 - 2014
 📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth<br>
 📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards<br>
-🔗 **[View GitHub Code & Queries:](https://github.com/akshayamurali281/Walmart-U.S-Sales-Analysis-2011---2014)<br>**
+🔗 **View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/Walmart-U.S-Sales-Analysis-2011---2014)<br>**
 🔗 PDF Version: *https://lnkd.in/g8t_JZrp*
 
 ---
@@ -31,7 +31,7 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 ## 🎬 Netflix Viewer Engagement Dashboard 
 📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries<br>
 📍 Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market<br>
-🔗 **[View GitHub Code & Queries:](https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary)<br>**
+🔗 **View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary)<br>**
 🔗 PDF Version: *https://lnkd.in/gTX6iNDt*
 
 ---
@@ -39,7 +39,7 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 ## 🚢Titanic Survival Prediction (Machine Learning | Statistics)
 📍 Logistic regression model for survival prediction  
 📍 Performed feature engineering & model evaluation  
-🔗 **[View GitHub Code & Queries:](https://github.com/akshayamurali281/Titanic-Survival-prediction-Analysis)<br>**
+🔗 **View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/Titanic-Survival-prediction-Analysis)<br>**
 🔗PDF Version: *https://lnkd.in/gRPyY2gi*
 
 ## Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)
@@ -47,7 +47,7 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks<br>
 📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements<br>
 📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers<br>
-🔗 **[View GitHub Code & Queries:](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)<br>**
+🔗 **View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)<br>**
 🔗 PDF version: https://lnkd.in/gj-tu2XG
 
 ## BCG Forage – Data & Decision Makers  Job Simulation (2026)
