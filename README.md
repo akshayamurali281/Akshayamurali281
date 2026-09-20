@@ -49,8 +49,8 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 
 ## [BCG Forage – Data & Decision Makers  Job Simulation (2026)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf)
 Excel | PowerPoint | Pivot Tables
- 📍	Prepared campaign performance dashboards and delivered consulting style recommendations<br>
- 📍 Applied analytical thinking to translate raw data into actionable insights<br>
+ * 📍	Prepared campaign performance dashboards and delivered consulting style recommendations<br>
+ * 📍 Applied analytical thinking to translate raw data into actionable insights<br>
 
 Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 ---
@@ -67,8 +67,8 @@ Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 • Supported Amazon US catalog operations for one month, performing bulk data uploads via Excel and maintaining daily trackers to monitor ticket resolution rates and team productivity metrics
 
 **Talent Acquisition  — Bangalore Softsell** *(Mar-2019 Mar-2020)*  
-• Conducted 50+ daily candidate outreach calls and emails across Naukri and LinkedIn, managing end-to-end recruitment for ASP.NET developer roles under constrained hiring conditions
-• Managed HR documentation including offer letters, payroll records, performance management files, and vendor invoices — ensuring accurate processing across all employee lifecycle stages
+• Conducted 50+ daily candidate outreach calls and emails across Naukri and LinkedIn, managing end-to-end recruitment for ASP.NET developer roles under constrained hiring conditions<br>
+• Managed HR documentation including offer letters, payroll records, performance management files, and vendor invoices — ensuring accurate processing across all employee lifecycle stages<br>
 
 ---
 
