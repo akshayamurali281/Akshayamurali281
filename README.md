@@ -43,14 +43,14 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 📍 Performed feature engineering & model evaluation  
 🔗PDF Version: *https://lnkd.in/gRPyY2gi*
 
-##[Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)
+#[Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)
  
 📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks.
 📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements.
 📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers.
-	🔗 PDF version: https://lnkd.in/gj-tu2XG
+🔗 PDF version: https://lnkd.in/gj-tu2XG
 
-### BCG Forage – Data & Decision Makers  Job Simulation (2026) Excel | PowerPoint | Pivot Tables
+## BCG Forage – Data & Decision Makers  Job Simulation (2026) Excel | PowerPoint | Pivot Tables
  📍	Prepared campaign performance dashboards and delivered consulting style recommendations.
  📍 Applied analytical thinking to translate raw data into actionable insights.
    🔗	Link :  https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf
