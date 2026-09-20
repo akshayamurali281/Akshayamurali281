@@ -20,39 +20,43 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 
 ## 📂 Featured Projects
 
-## [Walmart Sales Analysis (Python | Power BI | SQL | Excel) 2011 - 2014](https://github.com/akshayamurali281/Walmart-U.S-Sales-Analysis-2011---2014)
+## Walmart Sales Analysis (Python | Power BI | SQL | Excel) 2011 - 2014
 📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth<br>
 📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards<br>
+🔗 **[View GitHub Code & Queries:](https://github.com/akshayamurali281/Walmart-U.S-Sales-Analysis-2011---2014)<br>**
 🔗 PDF Version: *https://lnkd.in/g8t_JZrp*
 
 ---
 
-## 🎬[ Netflix Viewer Engagement Dashboard ](https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary)
+## 🎬 Netflix Viewer Engagement Dashboard 
 📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries<br>
 📍 Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market<br>
+🔗 **[View GitHub Code & Queries:](https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary)<br>**
 🔗 PDF Version: *https://lnkd.in/gTX6iNDt*
 
 ---
 
-## 🚢[Titanic Survival Prediction (Machine Learning | Statistics)](https://github.com/akshayamurali281/Titanic-Survival-prediction-Analysis)
+## 🚢Titanic Survival Prediction (Machine Learning | Statistics)
 📍 Logistic regression model for survival prediction  
 📍 Performed feature engineering & model evaluation  
+🔗**[View GitHub Code & Queries:](https://github.com/akshayamurali281/Titanic-Survival-prediction-Analysis)<br>**
 🔗PDF Version: *https://lnkd.in/gRPyY2gi*
 
-## [Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)
+## Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)
  
 📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks<br>
 📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements<br>
 📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers<br>
-
+🔗**[View GitHub Code & Queries:](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)<br>**
 🔗 PDF version: https://lnkd.in/gj-tu2XG
 
-## [BCG Forage – Data & Decision Makers  Job Simulation (2026)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf)
+## BCG Forage – Data & Decision Makers  Job Simulation (2026)
 Excel | PowerPoint | Pivot Tables
  * 📍	Prepared campaign performance dashboards and delivered consulting style recommendations<br>
  * 📍 Applied analytical thinking to translate raw data into actionable insights<br>
+   [View Certificate](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf)
 
-Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
+## Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 ---
 💼 **Professional Experience**
 
