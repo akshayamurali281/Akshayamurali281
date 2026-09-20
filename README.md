@@ -1,4 +1,4 @@
-👋 Hi, I'm Akshaya Murali
+**👋 Hi, I'm Akshaya Murali**
 📊 Passionate about transforming raw data into business decisions.  
  
 From operations to analytics — driven by a passion for turning messy data into decisions that matter.
@@ -21,15 +21,15 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 ## 📂 Featured Projects
 
 ## [Walmart Sales Analysis (Python | Power BI | SQL | Excel) 2011 - 2014](https://github.com/akshayamurali281/Walmart-U.S-Sales-Analysis-2011---2014)
-📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth.
-📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards.
-  🔗 *https://lnkd.in/g8t_JZrp*
+📍  Analyzed 4-year retail data across 11 US states — identified 33.68% YoY growth<br>
+📍  Built 3-page Power BI dashboard with forecast, geographic map, and KPI cards<br>
+🔗 PDF Version: *https://lnkd.in/g8t_JZrp*
 
 ---
 
 ## 🎬[ Netflix Viewer Engagement Dashboard ](https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary)
-📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries.
-📍 Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market.
+📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries<br>
+📍 Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market<br>
 🔗 PDF Version: *https://lnkd.in/gTX6iNDt*
 
 ---
@@ -39,22 +39,22 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 📍 Performed feature engineering & model evaluation  
 🔗PDF Version: *https://lnkd.in/gRPyY2gi*
 
-#[Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)
+## [Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)
  
-📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks.
-📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements.
-📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers.
+📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks<br>
+📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements<br>
+📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers<br>
 
 🔗 PDF version: https://lnkd.in/gj-tu2XG
 
 ## [BCG Forage – Data & Decision Makers  Job Simulation (2026)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf)
 Excel | PowerPoint | Pivot Tables
- 📍	Prepared campaign performance dashboards and delivered consulting style recommendations.
- 📍 Applied analytical thinking to translate raw data into actionable insights.
+ 📍	Prepared campaign performance dashboards and delivered consulting style recommendations<br>
+ 📍 Applied analytical thinking to translate raw data into actionable insights<br>
 
 Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 ---
-💼 Professional Experience
+💼 **Professional Experience**
 
 **Catalog Associate — Amazon Development Center**(Feb-2022 Dec-2023)*  
 • Resolved 60+ daily tickets across manual and automated error categories — including MRP price corrections, catalog defect fixes, and expiry stock invalidations — consistently meeting daily resolution targets and overtime SLAs.
@@ -70,17 +70,23 @@ Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 • Conducted 50+ daily candidate outreach calls and emails across Naukri and LinkedIn, managing end-to-end recruitment for ASP.NET developer roles under constrained hiring conditions
 • Managed HR documentation including offer letters, payroll records, performance management files, and vendor invoices — ensuring accurate processing across all employee lifecycle stages
 
-## 🎓 Certifications
-🎖 Google Data Analytics – Coursera - 
-🎖 [SQL for Data Analysts – Udemy](https://www.udemy.com/certificate/UC-12d5ef87-74d0-4586-8642-280623cd31ec/)
-🎖 [Python Programming – CodeChef](https://www.codechef.com/certificates/preview/85773af)
-🎖[VBA & Macros for Beginners – LinkedIn Learning](https://www.linkedin.com/learning/certificates/51fdc8c8998287ccbb5807886616170d4464aa7ea5971e5c3a22bb70fb362217?trk=share_certificate)
-🎖[Salesforce Essential learning - Linkedin Learning](https://www.linkedin.com/learning/certificates/7cc6f9b0177902b764c2db45a2187488f5973f9788e975d4222e8b1d616ef7f1)
-🎖 [From Excel to Tableau - Linkedin Learning](https://www.linkedin.com/learning/certificates/6c62c6342634b1b43308fb62b42f34b4ba5b4bf42bf9d9b2eb83ac6dbbc2e0a2)
-🎖  Complete Guide to Power BI for analysts by Microsoft Press - Linkedin Learning - https://www.linkedin.com/learning/certificates/2fc8245d71620086bd15cffb97fc912df8778fb33bc7fd7c0cd565f13448e98e
-🎖   Corporate Financial Statement analysis : Linkedin Learning - https://www.linkedin.com/learning/certificates/dad247ed4022d2ee714ae1140772b6321a5ed487c8eee3be292a3c1f07049532
-🎖   Machine Learning With Python :Foundations – LinkedIn Learning - https://www.linkedin.com/learning/certificates/90874309be84d77ce59aca83dc7d78c9bab8f1ce388d3fc1d5856a3e7ff36aed
 ---
+
+## 🎓 Certifications
+
+* 🥇 **Google Data Analytics Professional Certificate** — Coursera | [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/85STWYQ7RZGW?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+* 🏅 **SQL for Data Analysts** — Udemy | [View Certificate](https://www.udemy.com/certificate/UC-12d5ef87-74d0-4586-8642-280623cd31ec/)
+* 🏅 **Python Programming** — CodeChef | [View Certificate](https://www.codechef.com/certificates/preview/85773af)
+* 🏅 **VBA & Macros for Beginners** — LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/51fdc8c8998287ccbb5807886616170d4464aa7ea5971e5c3a22bb70fb362217?trk=share_certificate)
+* 🏅 **Salesforce Essential Learning** — LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/7cc6f9b0177902b764c2db45a2187488f5973f9788e975d4222e8b1d616ef7f1)
+* 🏅 **From Excel to Tableau** — LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/6c62c6342634b1b43308fb62b42f34b4ba5b4bf42bf9d9b2eb83ac6dbbc2e0a2)
+* 🏅 **Complete Guide to Power BI for Analysts** — Microsoft Press / LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/2fc8245d71620086bd15cffb97fc912df8778fb33bc7fd7c0cd565f13448e98e)
+* 🏅 **Corporate Financial Statement Analysis** — LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/dad247ed4022d2ee714ae1140772b6321a5ed487c8eee3be292a3c1f07049532)
+* 🏅 **Machine Learning With Python Foundations** - LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/90874309be84d77ce59aca83dc7d78c9bab8f1ce388d3fc1d5856a3e7ff36aed)
+* 🏅 **Introduction To Generative AI**- Completion Badge - Google
+
+
+
 
 ## 📫 Connect with Me
 🔗 LinkedIn: https://www.linkedin.com/in/akshaya-m-3872b7169/
