@@ -31,27 +31,24 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 
 ---
 
-### 🎬 Netflix Viewer Engagement Dashboard (SQL | Python | Power BI)
+## 🎬[ Netflix Viewer Engagement Dashboard ](https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary)
 📍 SQL + Python + Power BI analysis of 17,571 users across 10 countries.
 📍 Segmented viewers into Heavy/Moderate/Light categories — identified UK as top engagement market.
-🔗 *https://github.com/akshayamurali281/Netflix-Viewer-Engagement-Summary
-🔗 *https://lnkd.in/gTX6iNDt*
+🔗 PDF Version: *https://lnkd.in/gTX6iNDt*
 
 ---
 
-### 🚢 Titanic Survival Prediction (Machine Learning | Statistics)
+## 🚢[Titanic Survival Prediction (Machine Learning | Statistics)](https://github.com/akshayamurali281/Titanic-Survival-prediction-Analysis)
 📍 Logistic regression model for survival prediction  
 📍 Performed feature engineering & model evaluation  
-🔗  https://github.com/akshayamurali281/Titanic-Survival-prediction-Analysis
-🔗 *https://lnkd.in/gRPyY2gi*
+🔗PDF Version: *https://lnkd.in/gRPyY2gi*
 
-### Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)
+##[Brazil E-Commerce Sales & Delivery Performance Dashboard (2016–2018)](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)
  
 📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks.
 📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements.
 📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers.
-	 🔗  https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis
-	🔗 Link: https://lnkd.in/gj-tu2XG
+	🔗 PDF version: https://lnkd.in/gj-tu2XG
 
 ### BCG Forage – Data & Decision Makers  Job Simulation (2026) Excel | PowerPoint | Pivot Tables
  📍	Prepared campaign performance dashboards and delivered consulting style recommendations.
