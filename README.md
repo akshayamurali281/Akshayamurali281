@@ -1,19 +1,15 @@
 👋 Hi, I'm Akshaya Murali
-### Data Analyst | SQL • Python • Power BI • Excel | Turning Data into Insights  
-
 📊 Passionate about transforming raw data into business decisions.  
  
-
 From operations to analytics — driven by a passion for turning messy data into decisions that matter.
 
 I spent nearly 2 years at Amazon Development Center as a Catalog Associate, where I lived inside data every day — reconciling records, tracking defect metrics, building SOPs, and making sure the numbers told the truth. That experience taught me something important: clean data and clear reporting aren't just technical tasks, they're what good decisions are built on.
 
 Since early 2024, I've been on a deliberate path to deepen that instinct with formal analytics skills. I've completed hands-on projects in Power BI, SQL, Python (Pandas, NumPy, Matplotlib), Tableau, and Excel — building dashboards and models across real datasets including retail sales, Netflix viewer behaviour, e-commerce delivery performance, and customer analytics.                                           
-
 I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst or Operations Analyst roles where I can contribute to data-driven teams and keep growing.
 
 ---
-## 🔧 Tools used in  Skills
+## 🔧 Tools used 
 ✅ Python (Pandas, NumPy, Matplotlib)  
 ✅ SQL (Querying, Joins, Aggregations)  
 ✅ Power BI (Dashboards, DAX)  
@@ -48,12 +44,13 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 📍 Built an interactive Tableau dashboard analyzing order trends, shipping delays, customer delivery performance, and operational bottlenecks.
 📍 Identified regions with highest cancellation & late-delivery rates, enabling data-driven improvements.
 📍	Improved insights accessibility by designing KPI cards, and drill-down visual layers.
+
 🔗 PDF version: https://lnkd.in/gj-tu2XG
 
-## BCG Forage – Data & Decision Makers  Job Simulation (2026) Excel | PowerPoint | Pivot Tables
+## [BCG Forage – Data & Decision Makers  Job Simulation (2026)](https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf)
+Excel | PowerPoint | Pivot Tables
  📍	Prepared campaign performance dashboards and delivered consulting style recommendations.
  📍 Applied analytical thinking to translate raw data into actionable insights.
-   🔗	Link :  https://www.theforage.com/completion-certificates/SKZxezskWgmFjRvj9/Pchc5rEGyCeozqY5Z_SKZxezskWgmFjRvj9_698e1d66721156dbcaf51552_1770948384066_completion_certificate.pdf
 
 Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 ---
@@ -75,11 +72,11 @@ Salesforce Trailhead (13,500 points, Agentforce 360, reactivated 2026)
 
 ## 🎓 Certifications
 🎖 Google Data Analytics – Coursera - 
-🎖 SQL for Data Analysts – Udemy  - (https://www.udemy.com/certificate/UC-12d5ef87-74d0-4586-8642-280623cd31ec/)
-🎖 Python Programming – CodeChef - https://www.codechef.com/certificates/preview/85773af
-🎖 VBA & Macros for Beginners – LinkedIn Learning - https://www.linkedin.com/learning/certificates/51fdc8c8998287ccbb5807886616170d4464aa7ea5971e5c3a22bb70fb362217?trk=share_certificate
-🎖 Salesforce Essential learning - Linkedin Learning - https://www.linkedin.com/learning/certificates/7cc6f9b0177902b764c2db45a2187488f5973f9788e975d4222e8b1d616ef7f1
-🎖  From Excel to Tableau - Linkedin Learning - https://www.linkedin.com/learning/certificates/6c62c6342634b1b43308fb62b42f34b4ba5b4bf42bf9d9b2eb83ac6dbbc2e0a2
+🎖 [SQL for Data Analysts – Udemy](https://www.udemy.com/certificate/UC-12d5ef87-74d0-4586-8642-280623cd31ec/)
+🎖 [Python Programming – CodeChef](https://www.codechef.com/certificates/preview/85773af)
+🎖[VBA & Macros for Beginners – LinkedIn Learning](https://www.linkedin.com/learning/certificates/51fdc8c8998287ccbb5807886616170d4464aa7ea5971e5c3a22bb70fb362217?trk=share_certificate)
+🎖[Salesforce Essential learning - Linkedin Learning](https://www.linkedin.com/learning/certificates/7cc6f9b0177902b764c2db45a2187488f5973f9788e975d4222e8b1d616ef7f1)
+🎖 [From Excel to Tableau - Linkedin Learning](https://www.linkedin.com/learning/certificates/6c62c6342634b1b43308fb62b42f34b4ba5b4bf42bf9d9b2eb83ac6dbbc2e0a2)
 🎖  Complete Guide to Power BI for analysts by Microsoft Press - Linkedin Learning - https://www.linkedin.com/learning/certificates/2fc8245d71620086bd15cffb97fc912df8778fb33bc7fd7c0cd565f13448e98e
 🎖   Corporate Financial Statement analysis : Linkedin Learning - https://www.linkedin.com/learning/certificates/dad247ed4022d2ee714ae1140772b6321a5ed487c8eee3be292a3c1f07049532
 🎖   Machine Learning With Python :Foundations – LinkedIn Learning - https://www.linkedin.com/learning/certificates/90874309be84d77ce59aca83dc7d78c9bab8f1ce388d3fc1d5856a3e7ff36aed
