@@ -50,6 +50,13 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 🔗 **View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/Brazil-E-commerce-Delivery-Dashboard-Analysis)<br>**
 🔗 PDF version: https://lnkd.in/gj-tu2XG
 
+---
+## Social Media Dopamine Addiction VS Productivity 
+
+📍  Analysed screen time trends and focus levels across 300 users in 39 countries<br>
+📍  tracked daily screen time averages of 7.83 hours by building a 3-page Power BI dashboard with KPI cards and tree maps<br>
+🔗 **View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/Social-Media-Dopamine-Addiction-Vs-Productivity-Dataset)<br>**
+
 ## BCG Forage – Data & Decision Makers  Job Simulation (2026)
 Excel | PowerPoint | Pivot Tables
  * 📍	Prepared campaign performance dashboards and delivered consulting style recommendations<br>
