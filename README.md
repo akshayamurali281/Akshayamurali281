@@ -62,8 +62,8 @@ I hold and B.com and  MBA in Finance & HR and am actively seeking Data Analyst o
 
 📍 Flagged overtime as a key attrition driver as measured by a ~3x higher attrition rate among overtime employees within 1,470 
 records, by querying and segmenting workforce data<br>
-🔗 ** View GitHub Code & Queries:[GITHUB_URL]
-🔗 PDF version: [PDF LINK](https://drive.google.com/file/d/1d79jI4LYj0iweFMuvtNDyIV5fg7XDLx8/view?usp=sharing)
+🔗 ** View GitHub Code & Queries:[GITHUB_URL](https://github.com/akshayamurali281/IBM-HR-Attrition-Analysis)<br>
+🔗 ** PDF version: [PDF LINK](https://drive.google.com/file/d/1d79jI4LYj0iweFMuvtNDyIV5fg7XDLx8/view?usp=sharing)
 
 
 ## BCG Forage – Data & Decision Makers  Job Simulation (2026)
